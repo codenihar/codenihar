@@ -48,6 +48,10 @@ Dive into the tech ocean with me! Here's the arsenal I command:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="30">
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenihar&show_icons=true&locale=en&layout=compact" alt="niihaaarrrr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenihar&" alt="niihaaarrrr" /></p>
+
 Let's build, innovate, and explore together! 🚀✨
 
 Feel free to reach out for collaborations, discussions, or just to say hi! 🌟
