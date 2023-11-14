@@ -1,43 +1,41 @@
-Certainly! Here's the modified version with logos set to a height of 30 and width of 40:
+<h1>Nihar's Tech Oasis 🚀</h1>
 
-# Nihar's Tech Oasis 🚀
+  <p>Heyy MassCoders!👋 Welcome to my tech haven! I'm Nihar, a versatile tech enthusiast on a relentless quest for knowledge, sharing insights, and fostering innovation. 🌐✨</p>
 
-Heyy MassCoders!👋 Welcome to my tech haven! I'm Nihar, a versatile tech enthusiast on a relentless quest for knowledge, sharing insights, and fostering innovation. 🌐✨
+  <h2>About Me 🧑‍💻</h2>
 
-## About Me 🧑‍💻
+  <p>I wear multiple hats as a:</p>
+  <ul>
+    <li>🎥 YouTuber</li>
+    <li>📸 Instagram Tech Influencer</li>
+  </ul>
 
-I wear multiple hats as a:
+  <p>I'm passionate about teaching coding, MERN Stack development, and diving deep into discussions about the ever-evolving tech landscape. My genuine love for AI adds an extra layer of excitement to my tech journey. Join me in this exciting exploration of the digital frontier! 🚀</p>
 
-- 🎥 YouTuber
-- 📸 Instagram Tech Influencer
+  <h3>Connect with Me 🌐</h3>
 
-I'm passionate about teaching coding, MERN Stack development, and diving deep into discussions about the ever-evolving tech landscape. My genuine love for AI adds an extra layer of excitement to my tech journey. Join me in this exciting exploration of the digital frontier! 🚀
+  <ul>
+    <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@niharrdg"><img src="https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png" alt="YouTube Logo" height="30" width="40"></a></li>
+    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/niihaaarrrr"><img src="https://image-link-here" alt="Instagram Logo" height="30" width="40"></a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niharrdg"><img src="https://image-link-here" alt="LinkedIn Logo" height="30" width="40"></a></li>
+    <li><strong>Twitter:</strong> <a href="https://www.twitter.com/niihaaarrrr"><img src="https://image-link-here" alt="Twitter Logo" height="30" width="40"></a></li>
+  </ul>
 
-### Connect with Me 🌐
+  <h2>Tech Stack I Command 🛠️</h2>
 
-- **YouTube:** [![YouTube Logo](https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png){:height="30px" width="40px"}](https://www.youtube.com/@niharrdg)
-- **Instagram:** [![Instagram Logo](https://image-link-here)](https://www.instagram.com/niihaaarrrr)
-- **LinkedIn:** [![LinkedIn Logo](https://image-link-here)](https://www.linkedin.com/in/niharrdg)
-- **Twitter:** [![Twitter Logo](https://image-link-here)](https://www.twitter.com/niihaaarrrr)
+  <p>Dive into the tech ocean with me! Here's the arsenal I command:</p>
 
-## Tech Stack I Command 🛠️
+  <ul>
+    <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS <img src="https://image-link-here" alt="HTML Logo" height="30" width="40"> <img src="https://image-link-here" alt="CSS Logo" height="30" width="40"> <img src="https://image-link-here" alt="JavaScript Logo" height="30" width="40"> <img src="https://image-link-here" alt="React.js Logo" height="30" width="40"> <img src="https://image-link-here" alt="Next.js Logo" height="30" width="40"> <img src="https://image-link-here" alt="Tailwind CSS Logo" height="30" width="40"></li>
+    <li><strong>Backend:</strong> Node.js, Flask <img src="https://image-link-here" alt="Node.js Logo" height="30" width="40"> <img src="https://image-link-here" alt="Flask Logo" height="30" width="40"></li>
+    <li><strong>Databases:</strong> SQL, MongoDB, Firebase <img src="https://image-link-here" alt="SQL Logo" height="30" width="40"> <img src="https://image-link-here" alt="MongoDB Logo" height="30" width="40"> <img src="https://image-link-here" alt="Firebase Logo" height="30" width="40"></li>
+    <li><strong>Machine Learning:</strong> scikit-learn, NumPy, Pandas, TensorFlow <img src="https://image-link-here" alt="scikit-learn Logo" height="30" width="40"> <img src="https://image-link-here" alt="NumPy Logo" height="30" width="40"> <img src="https://image-link-here" alt="Pandas Logo" height="30" width="40"> <img src="https://image-link-here" alt="TensorFlow Logo" height="30" width="40"></li>
+    <li><strong>Other Tech Tools:</strong> Git, GitHub <img src="https://image-link-here" alt="Git Logo" height="30" width="40"> <img src="https://image-link-here" alt="GitHub Logo" height="30" width="40"></li>
+    <li><strong>Video Editing:</strong> Adobe Premiere Pro, Da Vinci Resolve <img src="https://image-link-here" alt="Adobe Premiere Pro Logo" height="30" width="40"> <img src="https://image-link-here" alt="Da Vinci Resolve Logo" height="30" width="40"></li>
+  </ul>
 
-Dive into the tech ocean with me! Here's the arsenal I command:
+  <p>Let's build, innovate, and explore together! 🚀✨</p>
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS ![HTML Logo](https://image-link-here) ![CSS Logo](https://image-link-here) ![JavaScript Logo](https://image-link-here) ![React.js Logo](https://image-link-here) ![Next.js Logo](https://image-link-here) ![Tailwind CSS Logo](https://image-link-here)
-  
-- **Backend:** Node.js, Flask ![Node.js Logo](https://image-link-here) ![Flask Logo](https://image-link-here)
-  
-- **Databases:** SQL, MongoDB, Firebase ![SQL Logo](https://image-link-here) ![MongoDB Logo](https://image-link-here) ![Firebase Logo](https://image-link-here)
-  
-- **Machine Learning:** scikit-learn, NumPy, Pandas, TensorFlow ![scikit-learn Logo](https://image-link-here) ![NumPy Logo](https://image-link-here) ![Pandas Logo](https://image-link-here) ![TensorFlow Logo](https://image-link-here)
-  
-- **Other Tech Tools:** Git, GitHub ![Git Logo](https://image-link-here) ![GitHub Logo](https://image-link-here)
-  
-- **Video Editing:** Adobe Premiere Pro, Da Vinci Resolve ![Adobe Premiere Pro Logo](https://image-link-here) ![Da Vinci Resolve Logo](https://image-link-here)
+  <p>Feel free to reach out for collaborations, discussions, or just to say hi! 🌟</p>
 
-Let's build, innovate, and explore together! 🚀✨
-
-Feel free to reach out for collaborations, discussions, or just to say hi! 🌟
-
-Happy Coding! 👩‍💻👨‍💻
+  <p>Happy Coding! 👩‍💻👨‍💻</p>
