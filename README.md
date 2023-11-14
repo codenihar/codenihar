@@ -1,5 +1,7 @@
+Certainly! Here's the modified version with logos set to a height of 30 and width of 40:
+
 # Nihar's Tech Oasis 🚀
-<br>
+
 Heyy MassCoders!👋 Welcome to my tech haven! I'm Nihar, a versatile tech enthusiast on a relentless quest for knowledge, sharing insights, and fostering innovation. 🌐✨
 
 ## About Me 🧑‍💻
@@ -13,7 +15,7 @@ I'm passionate about teaching coding, MERN Stack development, and diving deep in
 
 ### Connect with Me 🌐
 
-- **YouTube:** [![YouTube Logo](https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png)](https://www.youtube.com/@niharrdg)
+- **YouTube:** [![YouTube Logo](https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png){:height="30px" width="40px"}](https://www.youtube.com/@niharrdg)
 - **Instagram:** [![Instagram Logo](https://image-link-here)](https://www.instagram.com/niihaaarrrr)
 - **LinkedIn:** [![LinkedIn Logo](https://image-link-here)](https://www.linkedin.com/in/niharrdg)
 - **Twitter:** [![Twitter Logo](https://image-link-here)](https://www.twitter.com/niihaaarrrr)
