@@ -15,8 +15,8 @@
   <h3>Connect with Me 🌐</h3>
 
   <ul>
-    <li><strong>YouTube:</strong> <a href="https://www.youtube.com/@niharrdg"><img src="https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png" alt="YouTube Logo" height="30" width="40"></a></li>
-    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/niihaaarrrr"><img src="https://image-link-here" alt="Instagram Logo" height="30" width="40"></a></li>
+    <li><a href="https://www.youtube.com/@niharrdg"><img src="https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png" alt="YouTube Logo" height="40" width="40"></a></li>
+    <li><strong>Instagram:</strong> <a href="https://www.instagram.com/niihaaarrrr"><img src="https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png" alt="Instagram Logo" height="30" width="40"></a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/niharrdg"><img src="https://image-link-here" alt="LinkedIn Logo" height="30" width="40"></a></li>
     <li><strong>Twitter:</strong> <a href="https://www.twitter.com/niihaaarrrr"><img src="https://image-link-here" alt="Twitter Logo" height="30" width="40"></a></li>
   </ul>
