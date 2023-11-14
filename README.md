@@ -1,24 +1,41 @@
-<h1 align="center">Heyy MassCoders!👋</h1>
-<h3 align="center">I’m Nihar, a versatile tech enthusiast with a strong commitment to knowledge sharing and innovation.</h3>
+# Nihar's Tech Oasis 🚀
+<br>
+Heyy MassCoders!👋 Welcome to my tech haven! I'm Nihar, a versatile tech enthusiast on a relentless quest for knowledge, sharing insights, and fostering innovation. 🌐✨
 
-- 🌱 I wear multiple hats as a **YouTuber** and **Instagram tech influencer**.
+## About Me 🧑‍💻
 
-- 🧑🏻‍🏫 I focus on teaching **Coding**, and engaging in in-depth discussions about the ever-evolving Tech Landscape.
+I wear multiple hats as a:
 
-- 📫 How to reach me **niharrdg@gmail.com**
+- 🎥 YouTuber
+- 📸 Instagram Tech Influencer
 
-- ⚡ Fun fact: **My genuine love for AI adds an extra layer of excitement to my tech journey.**
+I'm passionate about teaching coding, MERN Stack development, and diving deep into discussions about the ever-evolving tech landscape. My genuine love for AI adds an extra layer of excitement to my tech journey. Join me in this exciting exploration of the digital frontier! 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://youtube.com/@niharrdg" target="blank"><img align="center" src="![image](https://github.com/codenihar/codenihar/assets/82893577/6a1a1a9e-0cf9-4c36-b667-42e7a2cbd1ee)
-" alt="niharrdg" height="30" width="40" /></a>
-  <a href="https://instagram.com/niihaaarrrr" target="blank"><img align="center" src="![image](https://github.com/codenihar/codenihar/assets/82893577/38146185-dd16-4466-bc46-dafc79cc61c4)
-" alt="niihaaarrrr" height="30" width="40" /></a>
-  <a href="https://twitter.com/niihaaarrrr" target="blank"><img align="center" src="![image](https://github.com/codenihar/codenihar/assets/82893577/1f1b1869-1336-42ac-bfee-f3035a4c8089)
-" alt="niihaaarrrr" height="30" width="40" /></a>
-</p>
+### Connect with Me 🌐
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenihar&show_icons=true&locale=en&layout=compact" alt="niihaaarrrr" /></p>
+- **YouTube:** [![YouTube Logo](https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png)](https://www.youtube.com/@niharrdg)
+- **Instagram:** [![Instagram Logo](https://image-link-here)](https://www.instagram.com/niihaaarrrr)
+- **LinkedIn:** [![LinkedIn Logo](https://image-link-here)](https://www.linkedin.com/in/niharrdg)
+- **Twitter:** [![Twitter Logo](https://image-link-here)](https://www.twitter.com/niihaaarrrr)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenihar&" alt="niihaaarrrr" /></p>
+## Tech Stack I Command 🛠️
+
+Dive into the tech ocean with me! Here's the arsenal I command:
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS ![HTML Logo](https://image-link-here) ![CSS Logo](https://image-link-here) ![JavaScript Logo](https://image-link-here) ![React.js Logo](https://image-link-here) ![Next.js Logo](https://image-link-here) ![Tailwind CSS Logo](https://image-link-here)
+  
+- **Backend:** Node.js, Flask ![Node.js Logo](https://image-link-here) ![Flask Logo](https://image-link-here)
+  
+- **Databases:** SQL, MongoDB, Firebase ![SQL Logo](https://image-link-here) ![MongoDB Logo](https://image-link-here) ![Firebase Logo](https://image-link-here)
+  
+- **Machine Learning:** scikit-learn, NumPy, Pandas, TensorFlow ![scikit-learn Logo](https://image-link-here) ![NumPy Logo](https://image-link-here) ![Pandas Logo](https://image-link-here) ![TensorFlow Logo](https://image-link-here)
+  
+- **Other Tech Tools:** Git, GitHub ![Git Logo](https://image-link-here) ![GitHub Logo](https://image-link-here)
+  
+- **Video Editing:** Adobe Premiere Pro, Da Vinci Resolve ![Adobe Premiere Pro Logo](https://image-link-here) ![Da Vinci Resolve Logo](https://image-link-here)
+
+Let's build, innovate, and explore together! 🚀✨
+
+Feel free to reach out for collaborations, discussions, or just to say hi! 🌟
+
+Happy Coding! 👩‍💻👨‍💻
