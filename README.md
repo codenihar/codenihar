@@ -13,10 +13,10 @@ I'm passionate about teaching coding, MERN Stack development, and diving deep in
 
 ### Connect with Me 🌐
 
-- <a href="https://www.youtube.com/@niharrdg"><img src="https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png" height="30"></a>
-- <a href="https://www.instagram.com/niihaaarrrr"><img src="https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png" height="30"></a>
-- <a href="https://www.linkedin.com/in/niharrdg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30"></a>
-- <a href="https://www.twitter.com/niihaaarrrr"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais" style="border-radius:10px;" height="30"></a>
+<a href="https://www.youtube.com/@niharrdg"><img src="https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png" height="30"></a>
+<a href="https://www.instagram.com/niihaaarrrr"><img src="https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png" height="30"></a>
+<a href="https://www.linkedin.com/in/niharrdg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30"></a>
+<a href="https://www.twitter.com/niihaaarrrr"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais" style="border-radius:10px;" height="30"></a>
 
 ## Tech Stack I Command 🛠️
 
