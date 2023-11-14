@@ -1,6 +1,8 @@
 # Nihar's Tech Oasis 🚀
 
-Heyy MassCoders!👋 Welcome to my tech haven! I'm Nihar, a versatile tech enthusiast on a relentless quest for knowledge, sharing insights, and fostering innovation. 🌐✨
+## Heyy MassCoders!👋 
+
+Welcome to my tech haven! I'm Nihar, a versatile tech enthusiast on a relentless quest for knowledge, sharing insights, and fostering innovation. 🌐✨
 
 ## About Me 🧑‍💻
 
