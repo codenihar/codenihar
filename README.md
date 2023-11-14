@@ -14,7 +14,7 @@
 
   <h3>Connect with Me 🌐</h3>
 
-  <ul>
+  <ul style="list-style-type=none; display:flex; flex-direction:row; margin:10px;">
     <li><a href="https://www.youtube.com/@niharrdg"><img src="https://www.youtube.com/s/desktop/6ee70b2c/img/favicon_144x144.png" alt="YouTube Logo" height="40" width="40"></a></li>
     <li><a href="https://www.instagram.com/niihaaarrrr"><img src="https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png" alt="Instagram Logo" height="40" width="40"></a></li>
     <li><a href="https://www.linkedin.com/in/niharrdg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" height="40" width="40"></a></li>
