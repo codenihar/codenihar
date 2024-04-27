@@ -5,6 +5,11 @@ I'ma a Web Developer and Machine Learning Engineer. I teach coding for free in m
 ### Connect with Me 🌐
 
 [YouTube](https://youtube.com/@niharrdg)
+
 [Instagram](https://instagram.com/niihaaarrrr)
+
 [LinkedIn](https://linkedin.com/in/niharrdg)
+
 [X](https://x.com/niihaaarrrr)
+
+### Happy Coding :)
